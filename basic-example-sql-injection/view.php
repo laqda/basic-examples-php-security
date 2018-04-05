@@ -8,7 +8,7 @@
     <title>SQL INJECTION</title>
 </head>
 <body>
-    <pre><i><h3>SQL injection - example - <a href="https://github.com/quentm74/basic-example-sql-injection.git">https://github.com/quentm74/basic-example-sql-injection.git</a></h3></i></pre>
+    <pre><i><h3>SQL injection - example</h3></i></pre>
     <hr>
     <?php
     if (isset($request)) {
